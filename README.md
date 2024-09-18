@@ -8,7 +8,6 @@
 ## Tech Stack 
 ### Languages & Frameworks
 <p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img alt="C#" src="https://img.shields.io/badge/C%23-480ca8?style=flat&logoColor=white">
 <img alt="Javascript" src="https://img.shields.io/badge/Javascript-ffd60a">
 <img alt="Java" src="https://img.shields.io/badge/Java-%2523ffffff?style=flat&logoColor=white">
