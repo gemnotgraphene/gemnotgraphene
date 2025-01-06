@@ -9,4 +9,4 @@
 ## 📫 Contact me via:
 
 [![Email](https://img.shields.io/badge/Email-0077B5%3Fstyle%3Dflat%26logoColor%3Dwhite)](thanhtuyencs163@gmail.com)
-[![Website](https://img.shields.io/badge/Website-00bbf9?style=flat&logoColor=white)](gemnotgraphene.com)
+[![Website](https://img.shields.io/badge/Website-00bbf9?style=flat&logoColor=white)](https://thanhtuyen.vercel.app/)
