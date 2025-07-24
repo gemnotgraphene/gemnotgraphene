@@ -21,30 +21,40 @@
 
 #### Frameworks
 <p align="center">
-<img alt="React.js" src="https://img.shields.io/badge/React.js-00a7e1?style=flat&logoColor=white">
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7209b7?style=flat&logoColor=white">
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-4361ee?style=flat&logoColor=white">
+  <img alt="React.js" src="https://img.shields.io/badge/React.js-00a7e1?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7209b7?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-4361ee?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </p>
+
+
 
 ### Tools & Platforms
 #### Tools
 <p align="center">
-<img alt="Git" src="https://img.shields.io/badge/Git-e5383b?style=flat&logoColor=white">
-<img alt="Github" src="https://img.shields.io/badge/GitHub-22223b?style=flat&logoColor=white" />
-<img alt="VSCode" src="https://img.shields.io/badge/VSCode-00a7e1?style=flat&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-e5383b?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-22223b?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-00a7e1?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
+
 
 
 #### Platforms
 <p align="center">
-<img alt="AWS"  src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img alt="Azure" src="https://img.shields.io/badge/Azure-4cc9f0?style=flat&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-9a031e?style=flat&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-003f88?style=flat&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-4cc9f0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-9a031e?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003f88?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
 
 
 ## 📫 Contact me via:
 
-[![Email](https://img.shields.io/badge/Email-0077B5%3Fstyle%3Dflat%26logoColor%3Dwhite)](thanhtuyencs163@gmail.com)
-[![Website](https://img.shields.io/badge/Website-00bbf9?style=flat&logoColor=white)](https://thanhtuyen.vercel.app/)
+<p align="center">
+  <a href="mailto:thanhtuyencs163@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://thanhtuyen.vercel.app/">
+    <img alt="Website" src="https://img.shields.io/badge/Website-00bbf9?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+</p>
