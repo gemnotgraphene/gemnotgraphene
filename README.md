@@ -1,5 +1,5 @@
 ## Hi there :wave: I'm Gemma - [Thanh Tuyen Nguyen]🌱 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZiZzI5bnFpZjNxb2lwamR0b2E2ZTljczZ5MXU5MmxraG04OTZvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHczZGdrOXdid2FrdDBtaXVtejB1bjdrdXQwOWh4NTZjaHVrdGt2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QX15lZJbifeQPzcNDt/giphy.gif" />
 
 - 🔭 I'm passionate about building applications.
 - 🥅 Favorite Quote: 地図に残る仕事 (Chizu ni nokoru shigoto) 
