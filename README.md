@@ -8,15 +8,16 @@
 ### Languages & Frameworks
 #### Languages
 <p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img alt="C#" src="https://img.shields.io/badge/C%23-480ca8?style=flat&logoColor=white">
-<img alt="Javascript" src="https://img.shields.io/badge/Javascript-ffd60a">
-<img alt="Java" src="https://img.shields.io/badge/Java-%2523ffffff?style=flat&logoColor=white">
-<img alt="HTML"  src="https://img.shields.io/badge/HTML-ff5400?style=flat&logoColor=white" />
-<img alt="CSS"  src="https://img.shields.io/badge/CSS-4361ee?style=flat&logoColor=white" />
-<img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-4cc9f0?style=flat&logoColor=white">
-<img alt="SQL" src="https://img.shields.io/badge/SQL-f18701?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/C%23-480ca8?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-ff5400?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-4361ee?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Xamarin-4cc9f0?style=for-the-badge&logo=xamarin&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-f18701?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
+
 
 #### Frameworks
 <p align="center">
